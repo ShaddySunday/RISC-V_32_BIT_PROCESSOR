@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/Pratiyush Rathore/Downloads/RV32I_Processor_All_Tests/RV32I_Processor_All_Tests/RTL/riscv_core.v,1793557810,verilog,,C:/Users/Pratiyush Rathore/Downloads/RV32I_Processor_All_Tests/RV32I_Processor_All_Tests/TESTBENCH/tb_riscv_all.v,,alu;alu_control;branch_unit;control_unit;data_memory;immediate_generator;instruction_memory;program_counter;register_file;riscv_top,,,D:/amd/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Pratiyush Rathore/Downloads/RV32I_Processor_All_Tests/RV32I_Processor_All_Tests/TESTBENCH/tb_riscv_all.v,1793557810,verilog,,,,tb_riscv_all,,,D:/amd/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Pratiyush Rathore/RV32I_Processor/RV32I_Processor.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
